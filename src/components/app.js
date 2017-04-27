@@ -3,8 +3,7 @@ import React, { Component } from 'react';
 // App
   // Searchbar
   import SearchBar from '../containers/search_bar';
-    //  Search input
-    //  Search Button
+
   // ForecastList
     // Chart
 
